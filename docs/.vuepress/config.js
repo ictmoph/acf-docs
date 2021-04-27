@@ -16,12 +16,8 @@ module.exports = {
                 title: 'คู่มือผู้ใช้งาน',
                 collapsable: true,
                 children: [
-                    '/user/login',
-                    '/user/user-menu',
-                    '/user/admin-hosp-menu',
-                    '/user/admin-ssj-menu',
-                    '/user/prepare-work',
-                    '/user/working'
+                    '/user/pre-register'
+        
                 ]
             },
             '/Q&A/',
