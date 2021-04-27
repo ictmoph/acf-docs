@@ -16,7 +16,10 @@ module.exports = {
                 title: 'คู่มือผู้ใช้งาน',
                 collapsable: true,
                 children: [
-                    '/user/pre-register'
+                    '/user/login',
+                    '/user/pre-register',
+                    '/user/Admin',
+                    '/user/User'
         
                 ]
             },
