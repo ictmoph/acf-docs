@@ -23,7 +23,6 @@ module.exports = {
         
                 ]
             },
-            '/Q&A/',
             '/contact/',
             '/download/',
             {
