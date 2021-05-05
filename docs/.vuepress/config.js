@@ -18,7 +18,8 @@ module.exports = {
                 children: [
                     '/user/login',
                     '/user/pre-register',
-                    '/user/user1'
+                    '/user/user1',
+                    '/user/admin'
         
                 ]
             },
