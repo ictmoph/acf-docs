@@ -7,7 +7,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'คู่มือผู้ใช้งาน', link: '/user/login' },
-            { text: 'ดาวน์โหลด', link: '/download/' },
+            
             // { text: 'foo', link: '/foo/one' },
             // { text: 'bar', link: '/bar/one' },
         ],
@@ -24,7 +24,7 @@ module.exports = {
                 ]
             },
             '/contact/',
-            '/download/',
+            
             {
                 title: 'การติดตั้งเครื่องอ่านบัตรประจำตัวประชาชนแบบ Smartcard',
                 collapsable: true,
@@ -33,7 +33,7 @@ module.exports = {
                     '/smartcard/troubleshooting'
                 ]
             },
-            '/request_permission/',
+            '/setprintsticker/',
         ]
     }
 }
