@@ -1,13 +1,12 @@
 ## คู่มือการใช้งานระบบ Active Case Findind (ACF)
 
 1. [คู่มือการใช้งาน](../user/login.md)
-1. [ถาม-ตอบ ระบบ Co-Vaccine](https://docs.google.com/document/u/0/d/1_6qTG-n3PZt_2mOQiUma_ov1snj_FXaucPHIR5lma4A/mobilebasic)
-1. [ช่องทางติดต่อสื่อสาร](../user/login.md)
-1. [ดาวน์โหลดเอกสาร](../contact/index.md)
-1. [การติดตั้งเครื่องอ่านบัตรประจำตัวประชาชนแบบ Smartcard](../smartcard/install.md)
+2. [ช่องทางติดต่อสื่อสาร](../contact/index.md)
+3. [การติดตั้งเครื่องอ่านบัตรประจำตัวประชาชนแบบ Smartcard](../smartcard/install.md)
+4. [การติดตั้งเครื่อง Print Sticker](../setprintsticker/index.md)
 
->เมนูเพิ่มเติมอื่น ๆ สามารถกดปุ่มไอคอนแฮมเบอร์เกอร์
+<!-- >เมนูเพิ่มเติมอื่น ๆ สามารถกดปุ่มไอคอนแฮมเบอร์เกอร์
 
-![Logo](./img/menu-top.png)
+![Logo](./img/menu-top.png) -->
 
-### Version 0.1.7 Update 15/04/2021 11:39 AM
+
