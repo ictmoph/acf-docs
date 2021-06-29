@@ -1,6 +1,9 @@
 ---
 title: 1.ขั้นตอนการขอใช้งานและระดับสิทธิ์ในการใช้ระบบ 
 ---
+## `Link การใช้งาน`
+Link สำหรับทดลองใช้งานระบบ : [https://acf.moph.go.th:8443/th/login](https://acf.moph.go.th:8443/th/login)  
+Link สำหรับใช้งานจริง : [https://acf.moph.go.th/th/login](https://acf.moph.go.th/th/login)
 
 ## 1.1. ขั้นตอนการดำเนินการก่อนใช้งานระบบ
 
