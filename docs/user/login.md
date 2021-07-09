@@ -6,7 +6,7 @@ Link สำหรับทดลองใช้งานระบบ : [https://
 Link สำหรับใช้งานจริง : [https://acf.moph.go.th/th/login](https://acf.moph.go.th/th/login)
 
 ## `ภาพรวมการใช้งาน ACF`
-ภาพรวมขั้นตอนการใช้งานระบบ ACF ![](./img/set_acf.png)
+ภาพรวมขั้นตอนการใช้งานระบบ ACF ![](./img/step_acf.png)
   
 ## 1.1. ขั้นตอนการดำเนินการก่อนใช้งานระบบ
 
